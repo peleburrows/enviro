@@ -135,6 +135,8 @@ log.txt
 uploads/
 readings/
 rain.txt
+last_time.txt
+reattempt_upload.txt
 
 # Pycharm idea
 .idea/
